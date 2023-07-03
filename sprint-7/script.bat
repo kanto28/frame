@@ -1,1 +1,0 @@
-jar cf test_framework.war test_framework/
